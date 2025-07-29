@@ -2,9 +2,9 @@
   "name": "ffmpeg-editor",
   "version": "1.0.0",
   "description": "A video Editor that works with Javascript and FFMPE",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/salagata/ffmpeg-editor/issues"
   },
-  "homepage": "https://github.com/salagata/ffmpeg-editor#readme"
+  "homepage": "https://github.com/salagata/ffmpeg-editor#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3"
+  }
 }
