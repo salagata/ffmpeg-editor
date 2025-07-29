@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg-editor",
+  "version": "1.0.0",
+  "description": "A video Editor that works with Javascript and FFMPE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salagata/ffmpeg-editor.git"
+  },
+  "author": "salagata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salagata/ffmpeg-editor/issues"
+  },
+  "homepage": "https://github.com/salagata/ffmpeg-editor#readme"
+}
